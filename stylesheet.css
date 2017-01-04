@@ -2,15 +2,15 @@ h1 {
   font-weight: bold;
 }
 
-h2.intro {
+.intro {
   font-style: italic;
-}
-
-p.intro {
-  color: brown;
 }
 
 img.intro {
   border: 1px solid black;
   width: 40%;
+}
+
+.inline {
+  font-weight: bold;
 }
